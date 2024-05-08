@@ -4,7 +4,7 @@
 ![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/diagram.png)
 
 ## Добавление станций и статистика
-![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/adding station and print statistics.png)
+![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/addingstationandprintstatistics.png)
 
 ## Удаление одной станции 
 ![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/deleting one station and print statistics.png)
