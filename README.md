@@ -1,5 +1,5 @@
 # chsu-oop
-Лабораторные работы
+Лабораторные работы 1-8
 ## Диаграмма классов
 ![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/diagram.png)
 
