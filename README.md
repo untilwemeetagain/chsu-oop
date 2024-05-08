@@ -9,5 +9,5 @@
 ## Удаление одной станции 
 ![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/deleting%20one%20station%20and%20print%20statistics.png)
 
-## Очистка списка
+## Очистка списка и проверка исключения
 ![Diagram](https://github.com/untilwemeetagain/chsu-oop/blob/main/src/deleting%20all%20stations.png)
